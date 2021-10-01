@@ -1,0 +1,29 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .logo {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+  .navigation-list {
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 21px;
+    font-weight: 500;
+    color: #333333;
+  }
+
+  .aboutme p {
+    font-size: 1.05rem;
+    color: #333333;
+  }
+
+  .aboutme span {
+    color: #2c2c2c;
+    font-weight: 550;
+  }
